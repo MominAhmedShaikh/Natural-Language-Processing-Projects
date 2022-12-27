@@ -3,7 +3,7 @@
 <h5 align="center"> <a href="https://blackcoffer.com/">Visit Blackcoffer's Website</a> </h5>
 
 <p align="center"> 
-<img src="https://miro.medium.com/proxy/1*_JW1JaMpK_fVGld8pd1_JQ.gif" alt="Sentiment Analysis gif" height="382px">
+<img src="https://miro.medium.com/proxy/1*_JW1JaMpK_fVGld8pd1_JQ.gif" alt="Sentiment Analysis gif" height="200px">
 </p>
 
 
